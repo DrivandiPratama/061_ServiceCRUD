@@ -6,3 +6,6 @@ POST
 
 PUT 
 <img width="1090" height="1157" alt="image" src="https://github.com/user-attachments/assets/37ec3fca-6b1b-409b-995e-a1362f270343" />
+
+DELETE
+<img width="1086" height="1157" alt="image" src="https://github.com/user-attachments/assets/7487f95a-2582-40d9-9d57-dd0ce0dc6d31" />
